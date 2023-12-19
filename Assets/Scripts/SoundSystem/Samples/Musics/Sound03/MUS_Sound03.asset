@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26089852f5c3668439e6b3e75babf6e6, type: 3}
+  m_Name: MUS_Sound03
+  m_EditorClassIdentifier: 
+  _type: 0
+  _possibleClips:
+  - {fileID: 8300000, guid: b0cdd7d96f04f634a9459a6f09a21689, type: 3}
+  - {fileID: 8300000, guid: bcea90f824a2ef74ab057a897e40fb18, type: 3}
+  - {fileID: 8300000, guid: 0c4c6879234b96c41be60a655d346371, type: 3}
+  _mixer: {fileID: -1929366152735590569, guid: c18bfd366100074448e6a161c24bc6d2, type: 2}
+  _volume:
+    MinValue: 0.8
+    MaxValue: 0.8
+  _pitch:
+    MinValue: 0.85
+    MaxValue: 0.95

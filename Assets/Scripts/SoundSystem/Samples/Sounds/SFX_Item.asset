@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69467f0364714b344b9ddedfe3dd4ad8, type: 3}
+  m_Name: SFX_Item
+  m_EditorClassIdentifier: 
+  _type: 3
+  _possibleClips:
+  - {fileID: 8300000, guid: 13871dada4ddfde4c8bb29c6afefb14d, type: 3}
+  - {fileID: 8300000, guid: 4f9dbc6a0a85d9d4bb49fb5ee4af64b2, type: 3}
+  _mixer: {fileID: 6837534629034971685, guid: c18bfd366100074448e6a161c24bc6d2, type: 2}
+  _volume:
+    MinValue: 0.8
+    MaxValue: 0.8
+  _pitch:
+    MinValue: 0.85
+    MaxValue: 0.95
